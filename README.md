@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koraxtu
-- 👀 I’m interested in ... devops and data.
-- 🌱 I’m currently learning ... python and devops.
+- 👀 I’m interested in ... web development and data engineering.
+- 🌱 I’m currently learning ... python, web development, and data engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
