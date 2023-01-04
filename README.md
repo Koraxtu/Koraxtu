@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Koraxtu
 - 👀 I’m interested in ... web development and data engineering.
-- 🌱 I’m currently learning ... python, web development, and data engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... python, web development, devops/infra, and data engineering.
+- 💞️ I’m looking to ... work in a company as an intern
+- 📫 How to reach me ... 
 
 <!---
 Koraxtu/Koraxtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
