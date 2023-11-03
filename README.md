@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koraxtu
 - 👀 I’m interested in ... web development and data engineering.
 - 🌱 I’m currently learning ... python, web development, devops/infra, and data engineering.
-- 💞️ I’m looking to ... work in a company as an intern
+- 💞️ I’m looking for ... full time employment as a software engineer
 - 📫 How to reach me ... 
 
 <!---
